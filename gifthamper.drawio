@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T12:20:36.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="kdc-iEVwasdOxHCRQLWq" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-03T12:23:24.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="pAra7rlUZ-bvRlLZeFdE" version="21.6.6" type="github" pages="2">
   <diagram id="aDA_4nTWPzpWctmf04pA" name="Page-1">
     <mxGraphModel dx="1049" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -158,6 +158,14 @@
         <mxCell id="ns_d-aMQriX51YMULZ0u-12" value="ADD TO WISHLIST" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="850" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ns_d-aMQriX51YMULZ0u-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ns_d-aMQriX51YMULZ0u-14" target="ns_d-aMQriX51YMULZ0u-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="1060" />
+              <mxPoint x="650" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ns_d-aMQriX51YMULZ0u-14" value="ADD DATEWISE ORDER" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
@@ -251,7 +259,7 @@
         <mxCell id="QC-oa2HQfWLTARNliC0y-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;GIFT HAMPER&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="100" width="140" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Kq61B8NgNPR4z9Mc2dlc-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Kq61B8NgNPR4z9Mc2dlc-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="270" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
